@@ -53,15 +53,6 @@ Before you begin, ensure you have the following installed:
    npm run dev
    ```
 
-## Contributing
-
-We welcome contributions! Please follow our contribution guidelines.
-
-## License
-This project is licensed under the MIT License.
-
-## Acknowledgments
-Thanks to the MERN and Redux TailwindCSS communities for their amazing tools and resources.
 
 ## Contact
 For any inquiries or issues, please contact [rishabh.rthr001@gmail.com].
